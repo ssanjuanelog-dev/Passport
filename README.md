@@ -1,5 +1,5 @@
 # Passport · IoT + Blockchain + IA
-Protocolo que integra IoT + Blockchain + IA para trazabilidad inmutable, cuantificaci\u00f3n operativa y cumplimiento regulatorio automatizado.
+Protocolo que integra IoT + Blockchain + IA para trazabilidad inmutable, cuantificación operativa y cumplimiento regulatorio automatizado.
 ## Correr (macOS)
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
